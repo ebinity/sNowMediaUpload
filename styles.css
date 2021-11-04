@@ -1,0 +1,23 @@
+
+
+body{
+    width:100%;
+    margin:auto;
+    background-color:black;
+}
+
+#main {
+    margin-left:auto;
+    margin-right:auto;
+    background-color:rgb(58, 119, 128);
+    height:500px;
+    width:720px;
+    margin:auto;
+    text-align:center;
+}
+
+#buttonsArea{
+
+    padding-top:25%;
+
+}
